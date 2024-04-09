@@ -56,3 +56,4 @@ Components of the Mosaic Plot Function
 To get some practice with this, try running and interpreting a Mosaic Plot using the following code.
 
 
+![image](https://github.com/Xnrrrrrr/11.0-Visualizing-Chi-Square/assets/133546385/4134f59d-374c-453c-806a-9cd5521c8d9d)
